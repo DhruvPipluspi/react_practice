@@ -1,0 +1,5 @@
+source video : https://www.youtube.com/watch?v=wYpCWwD1oz0
+
+start the npx create-react-app react-practice
+NOTE : Above command the name of react-app is given as per the github
+then replace the folder react-practice src files and other file as per git-hub 
