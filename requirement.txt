@@ -2,3 +2,4 @@ npx create-react-app react-practice
 npm install @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 formik yup
 npm install @fullcalendar/core  @fullcalendar/timegrid @fullcalendar/daygrid
 npm install @nivo/pie @nivo/line @nivo/geo
+npm install react-pro-sidebar@0.7.1
